@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/WordPress/WordPress/master/wp-admin/images/wordpress-logo.png" width="200">
+  <img src="https://raw.githubusercontent.com/WordPress/WordPress/master/wp-admin/images/wordpress-logo.png" width="100">
   
   # ITNode
   
